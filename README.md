@@ -83,6 +83,3 @@ Reference:
 •	Mohammad, S. M. (2016). Sentiment analysis: Detecting valence, emotions, and other affectual states from text. In Handbook of affective computing (pp. 202-216). Oxford University Press.
 
  
-
-
-![image](https://github.com/Kartikeya-Saraswat/Sentimental-Classification-of-Social-Media/assets/52210537/d3e59b89-43c9-4940-ac82-c712fc32ffdc)
