@@ -1,8 +1,5 @@
-# Sentimental-Classification-of-Social-Media by Kartikeya Saraswat
-Assignment 2 
-Sentiment classification for social media - Report 
-CS918: Natural Language Processing (2022-23) 
-Warwick Student ID: 2265141
+# Sentimental-Classification-of-Social-Media 
+By Kartikeya Saraswat
 
 
  
